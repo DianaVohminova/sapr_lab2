@@ -11,37 +11,37 @@
 
 ## Обновление 2:
 Результат покрытия: 86%
-# FUNCTIONAL COVERAGE ANALYSIS:
-# -----------------------------
-# Control Register Write: COVERED
-# Period Register Write: COVERED
-# Control Register Read: COVERED
-# Period Register Read: COVERED
-# Status Register Read: COVERED
-# Sync Signal Toggle: COVERED
-# Counter Reset: NOT COVERED
-# Generator Start: COVERED
-# Generator Stop: NOT COVERED
-# Boundary Period Values: COVERED
-# -----------------------------
-# Functional Coverage: 8/10 (80%)
-# 
-# FSM STATE COVERAGE:
-# -----------------------------
-# IDLE State:       COVERED
-# SETUP State:      COVERED
-# ACCESS State:     COVERED
-# -----------------------------
-# FSM Coverage: 3/3 (100%)
-# 
-# FINAL COVERAGE SUMMARY:
-# =======================
-# Functional Coverage: 80% (8/10 items)
-# FSM Coverage:        100% (3/3 states)
-# -----------------------
-# OVERALL COVERAGE:    86%
-# =======================
-# 
+FUNCTIONAL COVERAGE ANALYSIS:
+ -----------------------------
+Control Register Write: COVERED
+Period Register Write: COVERED
+Control Register Read: COVERED
+Period Register Read: COVERED
+Status Register Read: COVERED
+Sync Signal Toggle: COVERED
+Counter Reset: NOT COVERED
+Generator Start: COVERED
+Generator Stop: NOT COVERED
+Boundary Period Values: COVERED
+-----------------------------
+Functional Coverage: 8/10 (80%)
+
+FSM STATE COVERAGE:
+ -----------------------------
+IDLE State:       COVERED
+SETUP State:      COVERED
+ACCESS State:     COVERED
+ -----------------------------
+ FSM Coverage: 3/3 (100%)
+ 
+ FINAL COVERAGE SUMMARY:
+ =======================
+ Functional Coverage: 80% (8/10 items)
+ FSM Coverage:        100% (3/3 states)
+ -----------------------
+ OVERALL COVERAGE:    86%
+ =======================
+ 
 
 ### Авторы
 Студентки группы М3О-410Б-22
