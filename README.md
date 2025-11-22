@@ -41,6 +41,25 @@ ACCESS State:     COVERED
  -----------------------
  OVERALL COVERAGE:    86%
  =======================
+
+## Обновление 3:
+Обновление тестов для покрытия. Результат покрытия 100%
+COVERAGE BREAKDOWN:
+Control Write: COVERED
+Period Write: COVERED
+Control Read: COVERED
+Period Read: COVERED
+Status Read: COVERED
+Sync Toggle: COVERED
+Counter Reset: COVERED
+Generator Start: COVERED
+Generator Stop: COVERED
+Boundary Period: COVERED
+
+FINAL COVERAGE REPORT:
+Functional: 10/10 (100%)
+FSM: 3/3 (100%)
+Overall: 100%
  
 
 ### Авторы
